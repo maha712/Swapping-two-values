@@ -27,8 +27,10 @@ num1=num2
 num2=temp
 print("Swapped values are:",num1,num2)
 
+##output:
 
 
+![Screenshot (85)](https://github.com/maha712/Swapping-two-values/assets/121156360/947df718-721d-488d-97bb-7f7800a37b2c)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
