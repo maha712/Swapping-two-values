@@ -19,12 +19,19 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 #Program to swap two values.
+
 #Developed by: K.Mahalakshmi
+
 #RegisterNumber:22009204
+
 num1,num2=input(),input()
+
 temp=num1
+
 num1=num2
+
 num2=temp
+
 print("Swapped values are:",num1,num2)
 
 ##output:
